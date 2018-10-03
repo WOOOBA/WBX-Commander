@@ -1,4 +1,4 @@
-# BPL Commander
+# WBX Commander
 
 <p align="center">
     <img src="./banner.png" />
@@ -10,7 +10,7 @@
 
 ## Getting Started
 
-**DO NOT RUN BPL COMMANDER AS ROOT**
+**DO NOT RUN WBX COMMANDER AS ROOT**
 
 ### Create a user
 
@@ -32,31 +32,31 @@
 
 	`su - username`
 
-### Get BPL Commander
+### Get WBX Commander
 
 #### Via Git
 
 Clone the repo
 
-`git clone https://github.com/blockpool-io/BPL-Commander.git`
+`git clone https://github.com/WOOOBA/WBX-Commander.git`
 
 #### Via wget
 
-`wget https://raw.githubusercontent.com/blockpool-io/BPL-Commander/master/BPLcommander.sh -P ~/BPL-Commander`
+`wget https://raw.githubusercontent.com/WOOOBA/WBX-Commander/master/WBXcommander.sh -P ~/WBX-Commander`
 
-This will create the folder BPL-Commander in the root of your Home folder with the script inside.
+This will create the folder WBX-Commander in the root of your Home folder with the script inside.
 
-### Launch BPL Commander
+### Launch WBX Commander
 
 ```bash
 # move to the folder
-cd BPL-Commander
+cd WBX-Commander
 
 # make the script executable
-chmod +x BPLcommander.sh
+chmod +x WBXcommander.sh
 
-# start BPL Commander
-./BPLcommander.sh
+# start WBX Commander
+./WBXcommander.sh
 ```
 
 Follow the on screen directions from here on out.
